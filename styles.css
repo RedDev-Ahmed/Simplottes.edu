@@ -1033,6 +1033,33 @@ footer{
 }
 
 @media (max-width: 440px) {
+  body{
+    padding: 90px 0 0 0;
+  }
+
+  header{
+    height: 40px;
+  }
+
+  .left-spacer{
+    font-size: 22px;
+  }
+
+  .logo-img{
+    height: 35px;
+    margin: 0 5px 0 5px;
+  }
+
+  .profile-container{
+    padding: 7px;
+  }
+
+  .profile-img{
+    height: 25px;
+    width: 25px;
+    padding: 3px;
+  }
+  
   .edit-notes-btn,
   .start-learn-btn{
     font-size: 16px;
