@@ -894,6 +894,10 @@ footer{
     width: 92%;
   }
 
+  .dark-body .theme-para:hover{
+    background: rgb(55, 68, 77);
+  } 
+
   .read-more-btn:hover{
     background: rgb(146, 0, 146);
   }
