@@ -23,6 +23,7 @@ header{
   top: 0;
   left: 0;
   right: 0;
+  box-sizing: border-box;
   height: 50px;
   background: white;
   border:2.5px solid white;
