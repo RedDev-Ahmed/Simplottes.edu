@@ -798,8 +798,7 @@ footer{
 
 .dark-body .nav-list-option:hover,
 .dark-body .theme-light-option:hover,
-.dark-body .theme-dark-option:hover,
-.dark-body .theme-para:hover{
+.dark-body .theme-dark-option:hover{
   background: rgb(55, 68, 77);
 }
 
@@ -890,8 +889,7 @@ footer{
     background: rgba(0, 162, 255, 0.068);
   }
 
-  .theme-para:hover, 
-  .setting-para:hover{
+  .theme-para:hover{
     background: rgb(186, 227, 238);
     width: 92%;
   }
